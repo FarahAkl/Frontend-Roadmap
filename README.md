@@ -13,9 +13,9 @@
 ## Essentials before start Track
 
 - World Wide Web (WWW)
- - [WWW geeks for geeks] (https://www.geeksforgeeks.org/world-wide-web-www/)
- - [WWW Wikipedia] (https://en.wikipedia.org/wiki/World_Wide_Web)
- - [WWW TechTarget] (https://www.techtarget.com/whatis/definition/World-Wide-Web)
+  - [WWW geeks for geeks] (https://www.geeksforgeeks.org/world-wide-web-www/)
+  - [WWW Wikipedia] (https://en.wikipedia.org/wiki/World_Wide_Web)
+  - [WWW TechTarget] (https://www.techtarget.com/whatis/definition/World-Wide-Web)
 - Internet Fundmantals and How it works
   - [MDN] (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 - Hypertext Tranfer Protocol (HTTP)
