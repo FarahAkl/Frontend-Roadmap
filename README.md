@@ -4,8 +4,8 @@
 
 ## Content
 
-### Essentials before start Track
-### Basics
-### Resources
-### Frameworks
-### Recommendations
+- Essentials before start Track
+- Basics
+- Resources
+- Frameworks
+- Recommendations
