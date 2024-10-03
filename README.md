@@ -117,4 +117,15 @@ Git & Github
 
 ### CSS Frameworks
 
+ - Tailwind CSS
+   - [Tarmeez Academy](https://youtu.be/Pk3hhCJG2Dk?si=ZPfWGi14jD-BUq7k)
+   - [Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&si=hdSXgA7CpK8a1fg3)
+   - [Full Website using Tailwind](https://youtu.be/9Px2cwdQ8PM?si=T8EoaOQNFCOWM3gm)
+   - [Tailwindcss Docs](https://tailwindcss.com/)
+ - Bootstrap
+   - [Tarmeez Academy](https://youtu.be/65EFKUpYk2A?si=C71NCEQlAwWYcttk)
+   - [Freecodecamp](https://youtu.be/-qfEOE4vtxE?si=0Qnaj8yjNcGK9STR)
+   - [Landing page using bootstrap](https://youtu.be/Fa1uybpY2Fo?si=gP5f_TAzy1AFfReM)
+   - [Bootstarp Docs](https://getbootstrap.com/docs/)
+
 ## [Frontend Roadmap](https://roadmap.sh/r/frontend-development-09avs)
