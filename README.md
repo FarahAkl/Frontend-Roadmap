@@ -57,7 +57,8 @@
 - [Elzero Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc&si=3xwuTaeH8L4K3lIJ)
 - [Elzero Template 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh&si=qyqQt7aF8hnkySwI)
 - [Portifolio Codezilla](https://youtu.be/cARGOrtiWt4?si=GOwh1mws3wlReRMw)
-- [GreatStack](https://youtu.be/oYRda7UtuhA?si=nyVT_2Xf0FyG0WxY)
+- [GreatStack Template](https://youtu.be/oYRda7UtuhA?si=nyVT_2Xf0FyG0WxY)
+- [Gowtham Tirri Template](https://youtu.be/1aqomR-FaHw?si=SktIfeyouaAtKir)
 
 #### Time to try by yourself 
   - [Frontend mentor](https://www.frontendmentor.io/challenges) *recommended*
