@@ -43,4 +43,26 @@
  - [web.dev docs](https://web.dev/learn/html)
  - [w3 schools docs](https://www.w3schools.com/html/default.asp)
 
+### CSS (Cascading Styling Sheets)
+ - [CSS elzero 2021](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&si=bj4v2wZYvO0JMnh-) *recommended*
+ - [CSS Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8Os7rKViMCL8x6irVJT7McSS&si=DpN-n4Ve46hbqetA)
+ - [CSS FreecodeCamp](https://youtu.be/OXGznpKZ_sA?si=8hsroeyoLCDSLNhq)
+ - [HTML + CSS Yehia tech](https://youtu.be/Pwatx1n1Ws0?si=3RtXpmjuhOw-iJZT)
+ - [HTML + CSS Codezilla](https://youtu.be/aHzw_8wWl48?si=409j2N03NX3uwpNn)
+
+*Now start make projects in HTMl and CSS and take your time :)*
+
+- [Elzero Template 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF&si=RshAzq4P3EXL0Gz_)
+- [Elzero Template 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t&si=HV2qKkEsvlCfsQvB)
+- [Elzero Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc&si=3xwuTaeH8L4K3lIJ)
+- [Elzero Template 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh&si=qyqQt7aF8hnkySwI)
+- [Portifolio Codezilla](https://youtu.be/cARGOrtiWt4?si=GOwh1mws3wlReRMw)
+- [GreatStack](https://youtu.be/oYRda7UtuhA?si=nyVT_2Xf0FyG0WxY)
+
+#### Time to try by yourself 
+  - [Frontend mentor](https://www.frontendmentor.io/challenges) *recommended*
+  - [Frontend pro](https://www.frontendpro.dev/frontend-coding-challenges)
+  - [codepen](https://codepen.io/challenges)
+  - [100 days CSS](https://100dayscss.com/about/)
+
 ## [Frontend Roadmap](https://roadmap.sh/r/frontend-development-09avs)
