@@ -60,10 +60,61 @@
 - [GreatStack Template](https://youtu.be/oYRda7UtuhA?si=nyVT_2Xf0FyG0WxY)
 - [Gowtham Tirri Template](https://youtu.be/1aqomR-FaHw?si=SktIfeyouaAtKir)
 
-#### Time to try by yourself 
+*Time to try by yourself* 
   - [Frontend mentor](https://www.frontendmentor.io/challenges) *recommended*
   - [Frontend pro](https://www.frontendpro.dev/frontend-coding-challenges)
   - [codepen](https://codepen.io/challenges)
   - [100 days CSS](https://100dayscss.com/about/)
+
+### Version Control Systems
+Git & Github
+- [elzero git & github](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=bfLqsqCOXOH9aiyy)
+- [Ghareeb Elshaikh git & github](https://youtu.be/fDkR0TDR9dI?si=oh87FRdeFqleCnkO)
+- [Tarmeez Academy](https://youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-&si=2Sc9RibDQqIVUC_v)
+- [Freecodecamp](https://youtu.be/RGOj5yH7evk?si=ebyRfoQVRvfB0TdG)
+
+### JavaScript
+- [JS elzero 2021](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=fGhBE0Wj-WY0aHRc) *recommended*
+- [JS AbdElrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE&si=ZJlabY1-LEAHe6g8)
+- [JS freecodecamp](https://youtu.be/jS4aFq5-91M?si=UlIcu0hOjnlwK1aa)
+
+*Practice*
+- [Guess the Word Game](https://youtube.com/playlist?list=PLDoPjvoNmBAzI6F4b0MwiQgCjw8lsceMd&si=geMav8-Hff9j-jCB)
+- [Memory blocks Game](https://youtube.com/playlist?list=PLDoPjvoNmBAzSymugTQZDuEOG5I64uhyU&si=N9iMORy1JwnM_urr)
+- [Hangman Game](https://youtube.com/playlist?list=PLDoPjvoNmBAwPhjRUnmlUlc377dmYtpWg&si=bcMjbm36od1tm-XU)
+- [Weather App](https://youtu.be/c1r-NqYkFPc?si=DBNPPK-loijJYwDk)
+- [Currency Converter App](https://youtu.be/UY7F37KHyI8?si=_tA_5LfyPc0SoPbm)
+- [Product Management System](https://youtu.be/nJZAvdUhUMs?si=gSTbdkOFaimZGUll)
+
+*For more project*
+[Freecodecamp](https://youtu.be/RGOj5yH7evk?si=ebyRfoQVRvfB0TdG)
+
+*Problem Solving*
+
+- [leetcode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/challenges/)
+- [JSChallenger](https://www.jschallenger.com/)
+- [edabit](https://edabit.com/challenges/javascript)
+
+### Package Managers
+- NPM
+  - [elzero](https://youtu.be/OCIRRyBbz_w?si=VqGYlBxI7RR326o9)
+  - [Traversy media](https://youtu.be/jHDhaSSKmB0?si=MSICZQkCM-NmFq2B)
+  - [freecodecamp](https://youtu.be/2V1UUhBJ62Y?si=jYtuQwKoRhv6hMyB)
+  - [npm Docs](https://www.npmjs.com/) *important*
+- Yarn
+  - [Traversy Media](https://youtu.be/g9_6KmiBISk?si=1VcHZQMNRjgVvykC)
+  - [Yarn Docs](https://yarnpkg.com/)
+- pnPm
+  - [pnPm Docs](https://pnpm.io/)
+
+### CSS Architecture
+ - BEM
+   - [getbem](https://getbem.com/)
+   - [BEM info](https://en.bem.info/)
+   - [BEM cheat sheet](https://bem-cheat-sheet.9elements.com/)
+   - [CSS Tricks](https://css-tricks.com/bem-101/)
+
+### CSS Frameworks
 
 ## [Frontend Roadmap](https://roadmap.sh/r/frontend-development-09avs)
