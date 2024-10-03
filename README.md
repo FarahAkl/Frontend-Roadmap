@@ -86,8 +86,8 @@ Git & Github
 - [Currency Converter App](https://youtu.be/UY7F37KHyI8?si=_tA_5LfyPc0SoPbm)
 - [Product Management System](https://youtu.be/nJZAvdUhUMs?si=gSTbdkOFaimZGUll)
 
-*For more project*
-[Freecodecamp](https://youtu.be/RGOj5yH7evk?si=ebyRfoQVRvfB0TdG)
+*For more projects*
+[Frontend mentor](https://www.frontendmentor.io/challenges)
 
 *Problem Solving*
 
