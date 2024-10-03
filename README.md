@@ -101,7 +101,7 @@ Git & Github
   - [elzero](https://youtu.be/OCIRRyBbz_w?si=VqGYlBxI7RR326o9)
   - [Traversy media](https://youtu.be/jHDhaSSKmB0?si=MSICZQkCM-NmFq2B)
   - [freecodecamp](https://youtu.be/2V1UUhBJ62Y?si=jYtuQwKoRhv6hMyB)
-  - [npm Docs](https://www.npmjs.com/) *important*
+  - [npm Docs](https://www.npmjs.com/)
 - Yarn
   - [Traversy Media](https://youtu.be/g9_6KmiBISk?si=1VcHZQMNRjgVvykC)
   - [Yarn Docs](https://yarnpkg.com/)
