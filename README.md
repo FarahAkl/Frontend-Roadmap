@@ -45,6 +45,7 @@
 
 ### CSS (Cascading Styling Sheets)
  - [CSS elzero 2021](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&si=bj4v2wZYvO0JMnh-) *recommended*
+ - [CSS Useful Features elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAzwHGR6LpFIIcXKeXUc4AnN&si=e3fMW0qtYp5hD-3e)
  - [CSS Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8Os7rKViMCL8x6irVJT7McSS&si=DpN-n4Ve46hbqetA)
  - [CSS FreecodeCamp](https://youtu.be/OXGznpKZ_sA?si=8hsroeyoLCDSLNhq)
  - [HTML + CSS Yehia tech](https://youtu.be/Pwatx1n1Ws0?si=3RtXpmjuhOw-iJZT)
