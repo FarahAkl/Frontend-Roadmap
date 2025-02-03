@@ -103,6 +103,7 @@
 - [Currency Converter App](https://youtu.be/UY7F37KHyI8)
 - [Product Management System](https://youtu.be/nJZAvdUhUMs)
 - [elzero Frontend Playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAycCXz5d9WvqlmykUIys5e8&si=cTY5S50g2cd8ktIo)
+- [Coding Nepal playlist](https://youtube.com/playlist?list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3&si=IEj0m1vqIC_WjutN)
 
 ---
 
