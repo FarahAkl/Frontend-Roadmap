@@ -152,4 +152,13 @@
   - [FreeCodeCamp](https://youtu.be/-qfEOE4vtxE)
   - [Landing Page using Bootstrap](https://youtu.be/Fa1uybpY2Fo)
 
+---
+
+### **Frameworks**
+- Angular
+- vue
+- React
+  - [BroCode](https://youtu.be/CgkZ7MvWUAA?si=n6XBoxngV8TijSsm) (good for basics but not complete)
+  - [Tarmeez Academy](https://youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&si=3jrhknD6TKITWFVe) (Arabic resource)
+    
 ## [Frontend Roadmap](https://roadmap.sh/r/frontend-development-09avs)
